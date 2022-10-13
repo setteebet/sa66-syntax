@@ -1,0 +1,18 @@
+{
+  "name": "sa66-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "ซื้อหวยผ่านเน็ต✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"ซื้อหวยผ่านเน็ต",
+"วิธีแทงหวยในเว็บ",
+"lottovip ดอทคอม",
+"เว็บแทงหวย24",
+"หวยมาเลย์วันนี้สด"
+],
+  "repository": "https://github.com/setteebet/sa66-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
